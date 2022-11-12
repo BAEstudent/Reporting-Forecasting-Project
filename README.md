@@ -14,4 +14,4 @@ Some preliminary data analysis has been conducted.
 
 ### Quality Metrics
 
-No solution yet. Work in progress.
+SMAPE metric will be used for the model valuation.
